@@ -43,6 +43,11 @@ _Follow these steps to get the application ready to run_
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+### **_NOTE:_** *If you do not want to create your own OperationalTypes, you can use the following insert script:*
+   ```sh
+   src/main/resources/scripts/insert_operational_types.sql
+   ```
+
 Examples of requests
 
 ### Create an account

@@ -30,7 +30,7 @@ _Follow these steps to get the application ready to run_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/fthiago256/pismo-pratical-test.git
    ```
 3. Run the containers
    ```sh

@@ -20,7 +20,7 @@ This document explain how to import, install and run this project
 
 Before run this project check if you have this dependencies installed
 
-* Java 11 or above [OpenJDK](https://openjdk.org/projects/jdk/)
+* Java 17 or above [OpenJDK](https://openjdk.org/projects/jdk/)
 * Docker [Docker Desktop](https://docs.docker.com/desktop/)
 * Docker Compose [Docker Compose](https://docs.docker.com/compose/)
 

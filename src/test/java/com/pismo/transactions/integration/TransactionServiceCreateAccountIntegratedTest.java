@@ -53,7 +53,7 @@ public class TransactionServiceCreateAccountIntegratedTest {
     @Test
     void createTransactionWithNegativeValueTest() throws Exception {
         CreateTransactionRequestDto createTransactionDto = new CreateTransactionRequestDto();
-        createTransactionDto.accountId = 4L;
+        createTransactionDto.accountId = 1L;
         createTransactionDto.operationalTypeId = 3L;
         createTransactionDto.amount = 400.10;
 
